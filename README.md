@@ -8,7 +8,7 @@
 In addition to the technical analysis, the GPT focuses on the nuances of musical performance, including phrasing, articulation, and dynamics. It provides insights into how these elements contribute to the emotional and expressive power of a piece. With the ability to process uploaded audio files, the Audio Analyzer generates visual representations of the data to enhance understanding, creating a dynamic and educational experience for users seeking to deepen their knowledge of sound and music.
 
 #
-![Uploading Stage.png…]()
+![Stage](https://github.com/user-attachments/assets/b26a17c3-6144-45c1-80ed-3de8b75ba6f6)
 
 #
 ### Related Links
